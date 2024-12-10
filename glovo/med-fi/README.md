@@ -1,6 +1,6 @@
 # Introduction
 
-o Task: Order something from the promotions available on Glovo Express, a 24/7 Micro Fulfilment Centre, also known as a Glovo Supermarket
+o Task: Order something from the promotions available on Glovo Express.
 o Goal: Create prototypes for the Glovo’s task low/med/high-fidelity prototypes:
-• Simplify and strip down the task to its core component, deciding the key elements to represent and which placeholders to use
+• Simplify and strip down the task to its core components
 • Create a wireframe by connecting the different screens
